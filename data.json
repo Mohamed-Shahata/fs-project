@@ -1,0 +1,23 @@
+[
+  {
+    "name": "mahmoud",
+    "age": 23,
+    "email": "mahmoud@gmail.com",
+    "password": "123456789",
+    "id": 1
+  },
+  {
+    "name": "yaser",
+    "age": 20,
+    "email": "yaser@gmail.com",
+    "password": "123456",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "name": "mohamed1",
+    "age": 30,
+    "email": "mohmaed@gmail.com",
+    "password": "123456789132"
+  }
+]
